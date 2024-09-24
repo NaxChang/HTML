@@ -1,2 +1,5 @@
 # HTML
- Java script
+
+JavaScript
+HTML
+CSS

@@ -1,23 +1,20 @@
 div {
   border: solid 3px;
   width: 300px;
-  height: 150px;
+  height: 200px;
 }
 .static {
   position: static;
   left: 30px;
-  width: 400px;
-  height: 300px;
 }
 .relative {
   position: relative;
   left: 30px;
-  height: 250px;
 }
 .absolute {
   position: absolute;
-  left: 30px;
-  top: 30px;
+  left: 25px;
+  top: 25px;
   width: 100px;
   height: 100px;
 }

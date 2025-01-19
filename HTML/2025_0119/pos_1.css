@@ -1,0 +1,28 @@
+div {
+  border: solid 3px;
+  width: 300px;
+  height: 150px;
+}
+.static {
+  position: static;
+  left: 30px;
+  width: 400px;
+  height: 300px;
+}
+.relative {
+  position: relative;
+  left: 30px;
+  height: 250px;
+}
+.absolute {
+  position: absolute;
+  left: 30px;
+  top: 30px;
+  width: 100px;
+  height: 100px;
+}
+.fixed {
+  position: fixed;
+  right: 150px;
+  top: 150px;
+}
